@@ -77,16 +77,20 @@ The email combines social engineering techniques with deceptive messaging to exp
 * Verify sender authenticity before responding.
 
 ## Project Structure
+## Project Structure
 
+```text
 DecodeLabs_Project3_Phishing_Awareness_Analysis
 │
 ├── README.md
 ├── Phishing_Awareness_Analysis_Report.pdf
 │
 └── evidence
-├── 01_sample_phishing_email.png
-├── 02_red_flag_analysis.png
-└── 03_suspicious_keywords.png
+    ├── 01_sample_phishing_email.png
+    ├── 02_red_flag_analysis.png
+    └── 03_suspicious_keywords.png
+```
+
 
 ## Evidence Included
 
